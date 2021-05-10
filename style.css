@@ -1,0 +1,14 @@
+/* Selector {
+    Property: Value;
+} */
+
+h2 {
+    color:red;
+}
+p {
+    color: purple;
+}
+
+ul {
+    background-color: burlywood;
+}
